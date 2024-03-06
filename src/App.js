@@ -2,6 +2,7 @@ import './App.css';
 import Navbar from './navbar.js'; 
 import Card from './card.js';
 
+
 function App() {
     return (
         <div className="App">
